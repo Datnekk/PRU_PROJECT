@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12a27975d918e294cbb98832c6236e29, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  id: 2
+  displayName: Warrior
+  icon: {fileID: -1336002495, guid: 2b53ff22dbfde464783b8a74ad5744ee, type: 3}
+  characterSprite: {fileID: 21300000, guid: f2ed27d6c1c3ccc48959bcca269d88f0, type: 3}
+  characterPrefab: {fileID: 1689866831511430, guid: 2e2183501755a214591e802f3aff33d2, type: 3}
+  gamePlayPrefab: {fileID: -4652710749884779702, guid: 2e2183501755a214591e802f3aff33d2, type: 3}
